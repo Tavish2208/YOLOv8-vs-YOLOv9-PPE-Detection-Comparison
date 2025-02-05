@@ -40,10 +40,9 @@ This project presents a comparative analysis of two versions of the YOLO archite
   
 ## Output Screenshots
 Below are sample detection outputs from both models:
-![image](https://github.com/user-attachments/assets/6e81104f-1c79-4770-a6d6-124e876b4329)    ![image](https://github.com/user-attachments/assets/cc7b15f2-c1b7-425e-a133-49f6d094c431)
 
-
-
+![image](https://github.com/user-attachments/assets/6e81104f-1c79-4770-a6d6-124e876b4329)   
+![image](https://github.com/user-attachments/assets/cc7b15f2-c1b7-425e-a133-49f6d094c431)
 
 ## Future Enhancements
 - Deploying models on edge devices for real-time PPE monitoring.
