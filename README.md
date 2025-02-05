@@ -41,8 +41,10 @@ This project presents a comparative analysis of two versions of the YOLO archite
 ## Output Screenshots
 Below are sample detection outputs from both models:
 
-![YOLOv8 Detection](images/yolov8_detection.png)
-![YOLOv9 Detection](images/yolov9_detection.png)
+![YOLOv8 Detection](![image](https://github.com/user-attachments/assets/1e056361-bd35-45ca-890b-402bec75fa64)
+)
+![YOLOv9 Detection](![image](https://github.com/user-attachments/assets/dbb94bc0-4e78-493e-b624-b1b5ccbc1f4b)
+)
 
 ## Future Enhancements
 - Deploying models on edge devices for real-time PPE monitoring.
